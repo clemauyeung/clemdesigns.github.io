@@ -10,7 +10,8 @@ body {
 }
 
 p.intro {
-  position: absolute;
+  margin: 20px;
+  padding: 10px;
 }
 
 div.phrase {
