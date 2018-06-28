@@ -8,3 +8,12 @@ var = phrases [
   "I got my start at a tech startup helping organizations launch crowdfunding campaigns for social impact projects.",
 ]
 
+$("input").on("input", function() {
+  
+  var value = $(this).val()
+  
+  var phrase = phrases[value]
+
+  $("div.phrase").html(phrase)
+  
+  })
