@@ -1,2 +1,24 @@
-* {
-  font-family: Times, Heletica;}
+body {
+  font-family: Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  
+  background-color: #000000;
+  color: #ffffff;
+}
+
+div.phrase {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+input {
+  position: absolute;
+  bottom: 50px;
+  left: 40%;
+  width: 20%;
+}
