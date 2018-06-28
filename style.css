@@ -10,7 +10,7 @@ body {
 }
 
 p.last {
-  margin-bottom: 20px;
+  position: absolute;
 }
 
 div.phrase {
