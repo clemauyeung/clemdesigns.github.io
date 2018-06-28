@@ -9,11 +9,6 @@ body {
   color: #ffffff;
 }
 
-p.intro {
-  margin: 20px;
-  padding: 10px;
-}
-
 div.phrase {
   position: absolute;
   top: 50%;
