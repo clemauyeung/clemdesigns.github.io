@@ -9,6 +9,10 @@ body {
   color: #ffffff;
 }
 
+p.last {
+  margin-bottom: 20px;
+}
+
 div.phrase {
   position: absolute;
   top: 50%;
