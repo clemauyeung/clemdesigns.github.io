@@ -1,3 +1,3 @@
 # clemauyeung.github.io/design
 
-## This is a website Clem is designing to learn HTML & CSS :)
+## This is a sandbox where Clem plays with HTML, CSS, and Javascript :)
